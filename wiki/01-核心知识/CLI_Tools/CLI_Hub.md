@@ -63,5 +63,5 @@ AI agents can discover available tools through the hub without:
 
 ## Related concepts
 
-- [[OpenCLI]] — concrete CLI hub implementation
+- [[03-应用工具/OpenCLI]] — concrete CLI hub implementation
 - [[AI Agent Tool Discovery]] — how agents find and use tools

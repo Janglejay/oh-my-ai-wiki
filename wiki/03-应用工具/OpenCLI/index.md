@@ -107,8 +107,8 @@ Commands run entirely locally — **no tokens consumed at runtime**. A command c
 
 ## Related concepts
 
-- [[Browser Automation]] — underlying CDP-based browser control
-- [[CLI Hub]] — unified tool discovery pattern
+- [[01-核心知识/Browser_Automation/Browser_Automation]] — underlying CDP-based browser control
+- [[01-核心知识/CLI_Tools/CLI_Hub]] — unified tool discovery pattern
 - [[AI Agent Tool Discovery]] — how AI agents discover capabilities via AGENT.md integration
 - [[Electron App CLI]] — turning desktop apps into CLI tools
 

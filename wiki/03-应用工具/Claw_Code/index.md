@@ -90,7 +90,7 @@ flowchart TB
 
 ## Related concepts
 
-- [[Claude Code]] — the original this reimplements
+- [[03-应用工具/Claude_Code]] — the original this reimplements
 - [[Rust for AI Tools]] — why Rust for AI CLI tooling
 - [[AI Agent Harness]] — CLI framework pattern
 - [[UltraWorkers]] — the organization behind this ecosystem

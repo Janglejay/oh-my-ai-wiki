@@ -69,8 +69,8 @@ flowchart TB
 
 ## Related concepts
 
-- [[AI Agent]] — general agent concept
-- [[AI Agent Orchestration]] — multi-agent coordination
-- [[Claude Code]] — concrete implementation
-- [[Claw Code]] — Rust reimplementation
-- [[oh-my-claudecode]] — orchestration layer
+- [[01-核心知识/AI_Agent]] — general agent concept
+- [[01-核心知识/Agent编排/AI_Agent_Orchestration]] — multi-agent coordination
+- [[03-应用工具/Claude_Code]] — concrete implementation
+- [[03-应用工具/Claw_Code]] — Rust reimplementation
+- [[02-落地实践/oh-my-claudecode]] — orchestration layer

@@ -70,6 +70,6 @@ Browser automation reuses your **logged-in Chrome session**. Your credentials ne
 
 ## Related concepts
 
-- [[OpenCLI]] — implementation with AI agent integration
+- [[03-应用工具/OpenCLI]] — implementation with AI agent integration
 - [[Chrome DevTools Protocol]] — underlying protocol
 - [[AI Agent Tool Discovery]] — how AI agents use browser automation

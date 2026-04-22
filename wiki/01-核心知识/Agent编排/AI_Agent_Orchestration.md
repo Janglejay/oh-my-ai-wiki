@@ -73,7 +73,7 @@ Common roles in orchestration systems:
 
 ## Related concepts
 
-- [[AI Agent]] — general agent concept
-- [[Claude Code]] — base agentic coding tool
-- [[oh-my-claudecode]] — concrete orchestration implementation
+- [[01-核心知识/AI_Agent]] — general agent concept
+- [[03-应用工具/Claude_Code]] — base agentic coding tool
+- [[02-落地实践/oh-my-claudecode]] — concrete orchestration implementation
 - [[Team Orchestration]] — staged pipeline pattern

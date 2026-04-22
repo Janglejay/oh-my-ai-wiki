@@ -97,10 +97,10 @@ Claude Code collects usage data and feedback (via `/bug` command). Data is not u
 
 ## Related concepts
 
-- [[AI Agent]] — general AI agent concept
-- [[Coding Agent]] — specialized agents for software development
-- [[oh-my-claudecode]] — orchestration layer built on Claude Code
-- [[Claw Code]] — Rust reimplementation of the agent harness
+- [[01-核心知识/AI_Agent]] — general AI agent concept
+- [[01-核心知识/Coding_Agent/Coding_Agent]] — specialized agents for software development
+- [[02-落地实践/oh-my-claudecode]] — orchestration layer built on Claude Code
+- [[03-应用工具/Claw_Code]] — Rust reimplementation of the agent harness
 - [[Plugin System]] — extensibility patterns for AI tools
 
 ## Sources

@@ -47,8 +47,8 @@ A single page should target **400–1200 words**. When a topic exceeds that:
 
 ## Related patterns
 
-- [[Retrieval Augmented Generation]] — contrast: RAG retrieves on every query; wiki writes once, reads many times
-- [[AI Agent]] — the LLM acting as both reader and writer of the wiki is itself an agentic pattern
+- [[01-核心知识/LLM基础/RAG]] — contrast: RAG retrieves on every query; wiki writes once, reads many times
+- [[01-核心知识/AI_Agent]] — the LLM acting as both reader and writer of the wiki is itself an agentic pattern
 
 ## Sources
 
