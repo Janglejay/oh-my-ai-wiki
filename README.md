@@ -45,3 +45,4 @@ flowchart LR
 
 - [llm-wiki-skill](https://github.com/lewisliu/llm-wiki-skill) — LLM Wiki Pattern 的实现 skill
 - [Karpathy's llm-wiki Gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — 原始 Pattern 来源
+
